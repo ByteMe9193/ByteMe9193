@@ -12,7 +12,7 @@
   <li>Linguagens de Programação: Python, JavaScript, C#</li>
   <li>Desenvolvimento Web: HTML, CSS, Node.js, Bootstrap</li>
   <li>Banco de Dados: MySQL</li>
-  <li>Controle de Versão: Git, GitHub</li>
+  <li>Controle de Versionamento: Git, GitHub</li>
   <li>Ferramentas de Desenvolvimento: Visual Studio Code, PyCharm</li>
 </ul>
 
