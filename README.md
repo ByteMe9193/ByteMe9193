@@ -5,7 +5,7 @@
 <p>Sou um programador apaixonado por tecnologia e desenvolvimento de software. Meu objetivo é criar soluções eficientes e inovadoras de longo prazo para os desafios que encontro. Tenho experiência em algumas linguagens de programação, como JavaScript e Python, e atualmente estou estudando frameworks como React e React Native</p>
 
 <h2>Projetos 📂</h2>
-<p>Atualmente estou desenvolvendo alguns projetos, e espero poder compartilhar com vocês em breve! &#128521;</p>
+<p>Atualmente estou desenvolvendo alguns projetos, você pode checá-los no meus repositórios, espero poder compartilhar mais com vocês em breve! &#128521;</p>
 
 <h2>Habilidades 🛠️</h2>
 <ul>
