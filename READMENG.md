@@ -2,6 +2,9 @@
 
 <img src="./logo.png" alt="Hacker Pixel Art Logo" width="200"/>
 
+### Looking for the english version?
+Click [Here](./READMENG.md)
+
 ## 🛠️ About Me
 
 👋 Hey There! I'm a developer who loves tech, cybersec and automation. Always looking for knowledge and challenging projects
