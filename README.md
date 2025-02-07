@@ -2,7 +2,7 @@
 
 <img src="./logo.png" alt="Hacker Pixel Art Logo" width="200"/>
 
-### Looking for the english version?
+### Looking for the **english** version?
 Click [Here](./READMENG.md)
 
 ## 🛠️ Sobre mim
