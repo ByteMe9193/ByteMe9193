@@ -20,13 +20,15 @@
 
 ## 📂 Projetos Destacados
 
-🔹 [Projeto 1](link_do_projeto) – Descrição breve do projeto.
-🔹 [Projeto 2](link_do_projeto) – Descrição breve do projeto.
-🔹 [Projeto 3](link_do_projeto) – Descrição breve do projeto.
+🔹 [Rede com Cisco Packet Tracer](link_do_projeto) – Simulação de redes usando o Cisco Packet Tracer.
+🔹 [Honeypot](link_do_projeto) – Implementação de um sistema de Honeypot para análise de ataques.
+🔹 [Análise de Malware](link_do_projeto) – Estudo e desmontagem de malware para entender seu comportamento.
+🔹 [CTFs](link_do_projeto) – Criação e resolução de desafios de Capture The Flag.
+🔹 [Criptografia e Cifras](link_do_projeto) – Implementação e estudo de algoritmos criptográficos e cifras.
 
 ## 📬 Contato
 
-📧 **Email Profissional:** nickolasmm100@gmail.com  
+📧 **Email Profissional:** [nickolasmm100@gmail.com](mailto:nickolasmm100@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/nickolasbtw](https://linkedin.com/in/nickolasbtw)
 
 ---
