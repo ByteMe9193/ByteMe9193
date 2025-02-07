@@ -1,6 +1,6 @@
 # 👾 Bem-vindo ao meu GitHub!
 
-<img src="link_da_imagem_aqui" alt="Hacker Pixel Art Logo" width="100"/>
+<img src="./logo.png" alt="Hacker Pixel Art Logo" width="100"/>
 
 ## 🛠️ Sobre mim
 
