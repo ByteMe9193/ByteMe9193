@@ -2,6 +2,9 @@
 
 <img src="./logo.png" alt="Hacker Pixel Art Logo" width="200"/>
 
+### Looking for the english version?
+Click [Here](./READMENG.md)
+
 ## 🛠️ Sobre mim
 
 👋 Olá! Sou um desenvolvedor apaixonado por tecnologia, segurança da informação e automação. Sempre buscando aprender algo novo e criar projetos que desafiem meus limites.
