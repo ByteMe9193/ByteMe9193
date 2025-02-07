@@ -20,11 +20,11 @@
 
 ## 📂 Projetos Destacados
 
-- [Rede com Cisco Packet Tracer](link_do_projeto) – Simulação de redes usando o Cisco Packet Tracer.
-- [Honeypot](link_do_projeto) – Implementação de um sistema de Honeypot para análise de ataques.
 - [Análise de Malware](link_do_projeto) – Estudo e desmontagem de malware para entender seu comportamento.
-- [CTFs](link_do_projeto) – Criação e resolução de desafios de Capture The Flag.
 - [Criptografia e Cifras](link_do_projeto) – Implementação e estudo de algoritmos criptográficos e cifras.
+- [CTFs](link_do_projeto) – Criação e resolução de desafios de Capture The Flag.
+- [Honeypot](link_do_projeto) – Implementação de um sistema de Honeypot para análise de ataques.
+- [Rede com Cisco Packet Tracer](link_do_projeto) – Simulação de redes usando o Cisco Packet Tracer.
 
 ## 📬 Contato
 
