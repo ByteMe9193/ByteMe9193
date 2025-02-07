@@ -13,10 +13,10 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-- 🐍 Python | Bash | Batch
-- 🌐 Linux | Windows Server
-- 🔧 Docker | Raspberry Pi | Arduino
-- 🛡️ Cybersecurity | Pentest | Networking
+- 🐍 Python / Bash / Batch
+- 🌐 Linux / Windows Server
+- 🔧 Docker / Raspberry Pi / Arduino
+- 🛡️ Cybersecurity / Pentest / Networking
 
 ## 📂 Projetos Destacados
 
