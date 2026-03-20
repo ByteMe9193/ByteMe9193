@@ -1,7 +1,5 @@
 # 👾 Bem-vindo ao meu GitHub!
 
-<img src="./logo.png" alt="Hacker Pixel Art Logo" width="200"/>
-
 ### Looking for the **english** version?
 Click [Here](./READMENG.md)
 
@@ -21,13 +19,10 @@ Click [Here](./READMENG.md)
 - 🔧 Docker / Raspberry Pi / Arduino
 - 🛡️ Cybersecurity / Networking
 
-## 📂 Projetos Destacados
+## 📂 Projetos
 
-- [Análise de Malware](link_do_projeto) – Estudo e desmontagem de malware para entender seu comportamento.
-- [Criptografia e Cifras](link_do_projeto) – Implementação e estudo de algoritmos criptográficos e cifras.
-- [CTFs](link_do_projeto) – Criação e resolução de desafios de Capture The Flag.
-- [Honeypot](link_do_projeto) – Implementação de um sistema de Honeypot para análise de ataques.
-- [Rede com Cisco Packet Tracer](link_do_projeto) – Simulação de redes usando o Cisco Packet Tracer.
+- [Laboratório de SOC](https://github.com/ByteMe9193/soc-lab-splunk) – Implementação de ambiente SOC com SIEM (Splunk) para ingestão e correlação de logs.
+
 
 ## 📬 Contato
 
