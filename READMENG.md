@@ -1,33 +1,27 @@
-# 👾 Welcome to my Github!
+# 👾 Welcome to my GitHub!
 
-<img src="./logo.png" alt="Hacker Pixel Art Logo" width="200"/>
-
-### Procurando a versão em **Português**?
+### Procurando a versão em **português**?
 Clique [Aqui](./README.md)
 
 ## 🛠️ About Me
 
-👋 Hey There! I'm a developer who loves tech, cybersec and automation. Always looking for knowledge and challenging projects
+👋 Hi! I currently work in tech as a helpdesk and I'm transitioning into **cybersecurity**, constantly improving through hands-on projects and real-world challenges.
 
-- 🔥 Specialized in **Cybersecurity, Pentest and Development**
-- 💻 Focus on **Red Team, Scripts and Development**
-- 🕵️‍♂️ Interest in **OSINT, Ethical Hacking and Network Security**
+- 🔥 Interested in **Cybersecurity & Threat Detection**
+- 💻 Focused on **Red Team and scripting**
+- 🕵️‍♂️ Interested in **OSINT, Ethical Hacking and Network Security**
 - 🎨 Passionate about **Music and Coffee**
 
 ## 🚀 Technologies & Tools
 
-- 🐍 Python / Bash / Batch
+- 🐍 Python / Bash / Shell
 - 🌐 Linux / Windows Server
 - 🔧 Docker / Raspberry Pi / Arduino
-- 🛡️ Cybersecurity / Pentest / Networking
+- 🛡️ Cybersecurity / Networking / Splunk
 
-## 📂 Featured Projects
+## 📂 Projects
 
-- [Cryptography and Ciphers](project_link) – Implementation and study of cryptographic algorithms and ciphers.
-- [CTFs](project_link) – Creation and resolution of Capture The Flag challenges.
-- [Honeypot](project_link) – Implementation of a Honeypot system for attack analysis.
-- [Malware Analysis](project_link) – Study and disassemble malware to understand its behavior.
-- [Network with Cisco Packet Tracer](project_link) – Network simulation using Cisco Packet Tracer.
+- [SOC Lab](https://github.com/ByteMe9193/soc-lab-splunk) – Implementation of a SOC environment using SIEM (Splunk), including log ingestion, correlation and security event simulation.
 
 ## 📬 Contact
 
@@ -35,9 +29,5 @@ Clique [Aqui](./README.md)
 💼 **LinkedIn:** [linkedin.com/in/nickolasbtw](https://linkedin.com/in/nickolasbtw)
 
 ---
-🖥️ "Nothing is impossible for those who have determination and an open terminal."
 
-## 🌐 GitHub Pages
-
-This site is hosted via **GitHub Pages**. To access, click [here](https://seu_usuario.github.io/).
-
+🖥️ "Nothing is impossible when you have determination and an open terminal."
