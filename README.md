@@ -7,19 +7,19 @@ Click [Here](./READMENG.md)
 
 ## 🛠️ Sobre mim
 
-👋 Olá! Sou um desenvolvedor apaixonado por tecnologia, segurança da informação e automação. Sempre buscando aprender algo novo e criar projetos que desafiem meus limites.
+👋 Olá! Sou um profissional apaixonado por tecnologia, segurança da informação e automação. Sempre buscando aprender algo novo e criar projetos que desafiem meus limites.
 
-- 🔥 Especializado em **Cybersecurity, Pentest e Desenvolvimento**
-- 💻 Foco em **Red Team, Scripts e Desenvolvimento**
+- 🔥 Entusiasta de **Cybersecurity**
+- 💻 Foco em **Red Team e Scripts**
 - 🕵️‍♂️ Interesse em **OSINT, Hacking Ético e Segurança de Redes**
 - 🎨 Apaixonado por **Música e Café**
 
 ## 🚀 Tecnologias & Ferramentas
 
-- 🐍 Python / Bash / Batch
+- 🐍 Python / Bash / Shell
 - 🌐 Linux / Windows Server
 - 🔧 Docker / Raspberry Pi / Arduino
-- 🛡️ Cybersecurity / Pentest / Networking
+- 🛡️ Cybersecurity / Networking
 
 ## 📂 Projetos Destacados
 
