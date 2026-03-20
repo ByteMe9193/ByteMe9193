@@ -39,4 +39,4 @@ Click [Here](./READMENG.md)
 
 ## 🌐 GitHub Pages
 
-Este site está hospedado via **GitHub Pages**. Para acessar, clique [aqui](https://seu_usuario.github.io/).
+Este site está hospedado via **GitHub Pages**. Para acessar, clique [aqui](https://ByteMe9293.github.io/).
